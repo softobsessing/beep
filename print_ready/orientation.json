@@ -1,0 +1,212 @@
+{
+ "Hood_L": {
+  "down": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "support_cm2": 16.8,
+  "support_before_cm2": 22.2,
+  "bed_contact_cm2": 6.2,
+  "size_mm": [
+   77.6,
+   74.3,
+   49.8
+  ]
+ },
+ "Hood_R": {
+  "down": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "support_cm2": 17.3,
+  "support_before_cm2": 23.1,
+  "bed_contact_cm2": 6.19,
+  "size_mm": [
+   77.6,
+   74.3,
+   49.8
+  ]
+ },
+ "Face_Housing": {
+  "down": [
+   0.0,
+   -0.89,
+   -0.45
+  ],
+  "support_cm2": 20.7,
+  "support_before_cm2": 9.7,
+  "bed_contact_cm2": 3.45,
+  "size_mm": [
+   51.9,
+   66.1,
+   20.4
+  ]
+ },
+ "Face_Rim": {
+  "down": [
+   0.0,
+   -0.89,
+   -0.45
+  ],
+  "support_cm2": 0.0,
+  "support_before_cm2": 2.4,
+  "bed_contact_cm2": 7.8,
+  "size_mm": [
+   55.9,
+   55.9,
+   4.2
+  ]
+ },
+ "Body": {
+  "down": [
+   -0.0,
+   0.0,
+   -1.0
+  ],
+  "support_cm2": 5.9,
+  "support_before_cm2": 5.9,
+  "bed_contact_cm2": 7.86,
+  "size_mm": [
+   49.3,
+   40.7,
+   48.6
+  ]
+ },
+ "Hips": {
+  "down": [
+   0.0,
+   -0.0,
+   -1.0
+  ],
+  "support_cm2": 2.8,
+  "support_before_cm2": 2.8,
+  "bed_contact_cm2": 7.51,
+  "size_mm": [
+   45.0,
+   31.0,
+   27.9
+  ]
+ },
+ "Arm_L": {
+  "down": [
+   0.56,
+   -0.83,
+   -0.04
+  ],
+  "support_cm2": 3.3,
+  "support_before_cm2": 5.4,
+  "bed_contact_cm2": 0.79,
+  "size_mm": [
+   36.6,
+   32.0,
+   36.1
+  ]
+ },
+ "Arm_R": {
+  "down": [
+   -0.56,
+   -0.83,
+   -0.04
+  ],
+  "support_cm2": 3.3,
+  "support_before_cm2": 5.4,
+  "bed_contact_cm2": 0.79,
+  "size_mm": [
+   36.6,
+   32.0,
+   36.1
+  ]
+ },
+ "Hand_L": {
+  "down": [
+   -0.56,
+   0.83,
+   0.04
+  ],
+  "support_cm2": 0.7,
+  "support_before_cm2": 2.2,
+  "bed_contact_cm2": 0.35,
+  "size_mm": [
+   16.9,
+   15.2,
+   24.2
+  ]
+ },
+ "Hand_R": {
+  "down": [
+   0.56,
+   0.83,
+   0.04
+  ],
+  "support_cm2": 0.7,
+  "support_before_cm2": 2.2,
+  "bed_contact_cm2": 0.35,
+  "size_mm": [
+   16.9,
+   15.2,
+   24.3
+  ]
+ },
+ "Leg_L": {
+  "down": [
+   0.0,
+   -0.0,
+   -1.0
+  ],
+  "support_cm2": 6.9,
+  "support_before_cm2": 6.9,
+  "bed_contact_cm2": 1.63,
+  "size_mm": [
+   23.1,
+   63.5,
+   27.0
+  ]
+ },
+ "Leg_R": {
+  "down": [
+   -0.0,
+   -0.0,
+   -1.0
+  ],
+  "support_cm2": 6.9,
+  "support_before_cm2": 6.9,
+  "bed_contact_cm2": 1.63,
+  "size_mm": [
+   23.1,
+   63.5,
+   27.0
+  ]
+ },
+ "Laptop": {
+  "down": [
+   0.0,
+   -0.97,
+   -0.26
+  ],
+  "support_cm2": 1.8,
+  "support_before_cm2": 13.2,
+  "bed_contact_cm2": 16.85,
+  "size_mm": [
+   46.0,
+   50.4,
+   29.0
+  ]
+ },
+ "Seam_Pins": {
+  "down": [
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "support_cm2": 0.4,
+  "support_before_cm2": 0.4,
+  "bed_contact_cm2": 0.12,
+  "size_mm": [
+   6.4,
+   44.4,
+   32.6
+  ]
+ }
+}
